@@ -72,10 +72,21 @@
       "progressUpdateIntervalMs": 500
     },
     {
-      "text": "%python\n",
+      "text": "%python\n\nprint(\u0027GO GO GO!\u0027)",
       "user": "admin",
-      "dateUpdated": "2019-10-12 18:17:18.652",
-      "config": {},
+      "dateUpdated": "2019-10-12 18:38:57.080",
+      "config": {
+        "colWidth": 12.0,
+        "fontSize": 9.0,
+        "enabled": true,
+        "results": {},
+        "editorSetting": {
+          "language": "python",
+          "editOnDblClick": false,
+          "completionSupport": true
+        },
+        "editorMode": "ace/mode/python"
+      },
       "settings": {
         "params": {},
         "forms": {}
