@@ -3,7 +3,7 @@
     {
       "text": "%python\n\nprint(\u0027shit!\u0027)",
       "user": "admin",
-      "dateUpdated": "2019-10-12 18:13:26.138",
+      "dateUpdated": "2019-10-12 19:03:04.274",
       "config": {
         "colWidth": 12.0,
         "fontSize": 9.0,
@@ -33,21 +33,26 @@
       "jobName": "paragraph_1570875192785_-1007505875",
       "id": "20191012-181312_1921328987",
       "dateCreated": "2019-10-12 18:13:12.785",
-      "dateStarted": "2019-10-12 18:13:26.183",
-      "dateFinished": "2019-10-12 18:13:28.597",
+      "dateStarted": "2019-10-12 19:03:04.331",
+      "dateFinished": "2019-10-12 19:03:08.643",
       "status": "FINISHED",
       "progressUpdateIntervalMs": 500
     },
     {
       "text": "%python\n\nprint(\"let\u0027s go die\")",
       "user": "admin",
-      "dateUpdated": "2019-10-12 18:17:35.490",
+      "dateUpdated": "2019-10-12 19:03:08.735",
       "config": {
         "colWidth": 12.0,
         "fontSize": 9.0,
         "enabled": true,
         "results": {},
-        "editorSetting": {}
+        "editorSetting": {
+          "language": "python",
+          "editOnDblClick": false,
+          "completionSupport": true
+        },
+        "editorMode": "ace/mode/python"
       },
       "settings": {
         "params": {},
@@ -66,15 +71,15 @@
       "jobName": "paragraph_1570875206142_-1670094402",
       "id": "20191012-181326_1715560458",
       "dateCreated": "2019-10-12 18:13:26.142",
-      "dateStarted": "2019-10-12 18:17:35.533",
-      "dateFinished": "2019-10-12 18:17:35.542",
+      "dateStarted": "2019-10-12 19:03:08.760",
+      "dateFinished": "2019-10-12 19:03:08.770",
       "status": "FINISHED",
       "progressUpdateIntervalMs": 500
     },
     {
       "text": "%python\n\nprint(\u0027GO GO GO!\u0027)",
       "user": "admin",
-      "dateUpdated": "2019-10-12 18:38:57.080",
+      "dateUpdated": "2019-10-12 19:03:08.859",
       "config": {
         "colWidth": 12.0,
         "fontSize": 9.0,
@@ -90,18 +95,29 @@
       "settings": {
         "params": {},
         "forms": {}
+      },
+      "results": {
+        "code": "SUCCESS",
+        "msg": [
+          {
+            "type": "TEXT",
+            "data": "GO GO GO!\n"
+          }
+        ]
       },
       "apps": [],
       "jobName": "paragraph_1570875438650_232005506",
       "id": "20191012-181718_1942698617",
       "dateCreated": "2019-10-12 18:17:18.650",
-      "status": "READY",
+      "dateStarted": "2019-10-12 19:03:08.882",
+      "dateFinished": "2019-10-12 19:03:08.890",
+      "status": "FINISHED",
       "progressUpdateIntervalMs": 500
     },
     {
       "text": "%python\n\nprint(\u0027BACK BACK BACK!\u0027)",
       "user": "admin",
-      "dateUpdated": "2019-10-12 18:45:16.120",
+      "dateUpdated": "2019-10-12 19:03:08.980",
       "config": {
         "colWidth": 12.0,
         "fontSize": 9.0,
@@ -118,10 +134,75 @@
         "params": {},
         "forms": {}
       },
+      "results": {
+        "code": "SUCCESS",
+        "msg": [
+          {
+            "type": "TEXT",
+            "data": "BACK BACK BACK!\n"
+          }
+        ]
+      },
       "apps": [],
       "jobName": "paragraph_1570877100438_2106662417",
       "id": "20191012-184500_1294875734",
       "dateCreated": "2019-10-12 18:45:00.438",
+      "dateStarted": "2019-10-12 19:03:09.007",
+      "dateFinished": "2019-10-12 19:03:09.021",
+      "status": "FINISHED",
+      "progressUpdateIntervalMs": 500
+    },
+    {
+      "text": "%python\n\nprint(6 + 6 + 6)",
+      "user": "admin",
+      "dateUpdated": "2019-10-12 19:03:09.100",
+      "config": {
+        "colWidth": 12.0,
+        "fontSize": 9.0,
+        "enabled": true,
+        "results": {},
+        "editorSetting": {
+          "language": "python",
+          "editOnDblClick": false,
+          "completionSupport": true
+        },
+        "editorMode": "ace/mode/python"
+      },
+      "settings": {
+        "params": {},
+        "forms": {}
+      },
+      "results": {
+        "code": "SUCCESS",
+        "msg": [
+          {
+            "type": "TEXT",
+            "data": "18\n"
+          }
+        ]
+      },
+      "apps": [],
+      "jobName": "paragraph_1570878166450_930616835",
+      "id": "20191012-190246_631177468",
+      "dateCreated": "2019-10-12 19:02:46.450",
+      "dateStarted": "2019-10-12 19:03:09.159",
+      "dateFinished": "2019-10-12 19:03:09.172",
+      "status": "FINISHED",
+      "progressUpdateIntervalMs": 500
+    },
+    {
+      "text": "%python\n",
+      "user": "admin",
+      "dateUpdated": "2019-10-12 19:03:09.100",
+      "config": {},
+      "settings": {
+        "params": {},
+        "forms": {}
+      },
+      "apps": [],
+      "jobName": "paragraph_1570878189100_1581718139",
+      "id": "20191012-190309_1575961292",
+      "dateCreated": "2019-10-12 19:03:09.100",
       "status": "READY",
       "progressUpdateIntervalMs": 500
     }
